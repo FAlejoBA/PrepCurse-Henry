@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-ESTE ES MI PRIMER REPOSITORIO 
+esta es una prueba de como crear un repositorio y clonarlo
